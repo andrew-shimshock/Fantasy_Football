@@ -57,5 +57,5 @@ Pro‑Football‑Reference.com – raw game & player data (downloaded, cleaned, 
 
 **Citation & Further Reading**
 Notebook: Fantasy_Team_Trends.ipynb (full code and visualizations).
-Medium article: Using Data Science to Predict NFL Offensive Trends for Fantasy Football
+Medium article: Using Data Science to Predict NFL Offensive Trends for Fantasy Football https://medium.com/@ashimshock/using-data-science-to-predict-nfl-offensive-trends-for-fantasy-football-0a55aa8001eb
 License: MIT (see LICENSE file).
